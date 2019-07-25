@@ -1,9 +1,9 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/richardburdx-30617/code/labs/tic-tac-toe-rb-v-000/lib/tic_tac_toe.rb": [
-        1,
+      "/home/Richard-Burd/tic-tac-toe-rb-v-000/lib/tic_tac_toe.rb": [
         null,
+        1,
         null,
         null,
         null,
@@ -38,8 +38,8 @@
         null,
         1,
         60,
-        null,
         391,
+        null,
         null,
         23,
         null,
@@ -98,6 +98,6 @@
         null
       ]
     },
-    "timestamp": 1489006767
+    "timestamp": 1564013316
   }
 }
